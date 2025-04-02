@@ -1,0 +1,14 @@
+name: PeninsulaAbilities
+main: me.jedigrandmaster.peninsulaAbilities.PeninsulaAbilities
+version: 1.0
+author: jedigrandmaster7
+api-version: 1.17
+commands:
+    addability:
+        usage: /addability <player> <ability>
+    removeability:
+        usage: /removeability <player> <ability>
+    updateitem:
+        usage: /updateitem
+    thirdarm:
+        usage: /thirdarm

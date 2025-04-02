@@ -1,0 +1,5 @@
+name: BetterHunger
+main: me.jedigrandmaster.betterhunger.BetterHungerPlugin
+version: 1.0
+author: jedigrandmaster7
+api-version: 1.17
